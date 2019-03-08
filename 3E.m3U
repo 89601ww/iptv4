@@ -1,109 +1,97 @@
 #EXTINF:-1,Последнее обновление 04.03.2019
 http://000.000.00.000:00/u7p/000.000.0.00:0000
+#EXTINF:-1 tvch-id="11068" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЕРВЫЙ КАНАЛ
+http://212.75.198.234:81/udp/239.255.42.1:1234
+#EXTINF:-1 tvch-id="11076" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",РОССИЯ 1
+http://212.75.198.234:81/udp/239.255.42.12:1234
+#EXTINF:-1 tvch-id="5125" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",РОССИЯ 1 HD
+http://89.208.234.5:5050/udp/224.0.42.140:5000
+#EXTINF:-1 tvch-id="2084" group-title="СПОРТИВНЫЕ",МАТЧ!
+http://5.100.97.247:4022/udp/224.3.20.109:1234
+#EXTINF:-1 tvch-id="11062" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",НТВ
+http://46.181.116.168:81/udp/239.255.0.4:1234
+#EXTINF:-1 tvch-id="24002" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЯТЫЙ КАНАЛ
+http://37.235.182.27:81/udp/225.50.66.95:1234
+#EXTINF:-1 tvch-id="11078" group-title="ПОЗНАВАТЕЛЬНЫЕ",РОССИЯ К
+http://158.46.101.216:81/udp/239.255.42.17:1234
+#EXTINF:-1 tvch-id="11077" group-title="ИНФОРМАЦИОННЫЕ",РОССИЯ 24
+http://158.46.245.158:81/udp/239.255.42.9:1234
+#EXTINF:-1 tvch-id="11049" group-title="ДЕТСКИЕ",КАРУСЕЛЬ
+http://212.75.198.234:81/udp/239.255.42.10:1234
+#EXTINF:-1 tvch-id="11046" group-title="ФЕДЕРАЛЬНЫЕ",ЗВЕЗДА
+http://46.181.114.227:81/udp/239.255.42.239:1234
+#EXTINF:-1 tvch-id="24070" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ 
+http://37.235.131.4:81/udp/225.50.66.59:1234
+#EXTINF:-1 tvch-id="11066" group-title="ИНФОРМАЦИОННЫЕ",ОТР
+http://158.46.88.95:4022/udp/239.255.42.11:1234
+#EXTINF:-1 tvch-id="11075" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",РЕН ТВ
+http://212.75.198.234:81/udp/239.255.42.68:1234
+#EXTINF:-1 tvch-id="11082" group-title="ПРАВОСЛАВНЫЕ",СПАС
+http://158.46.101.216:81/udp/239.255.42.20:1234
+#EXTINF:-1 tvch-id="16028" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СТС
+http://92.127.212.83:1234/udp/233.7.70.129:5000
 #EXTINF:-1 tvch-id="11037" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",АНЕКДОТ ТВ
-http://176.197.66.230:81/udp/239.255.42.95:1234
+http://212.75.198.234:81/udp/239.255.42.95:1234
+#EXTINF:-1 tvch-id="2215" group-title="КИНО/СЕРИАЛЫ",ДОМ КИНО ПРЕМИУМ HD
+http://5.100.97.247:4022/udp/224.3.24.49:1234
+#EXTINF:-1 tvch-id="11044" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ДОМАШНИЙ
+http://212.75.198.234:81/udp/239.255.42.66:1234
+#EXTINF:-1 tvch-id="11071" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ПЯТНИЦА
+http://212.75.198.234:81/udp/239.255.42.53:1234
+#EXTINF:-1 tvch-id="11058" group-title="МУЗЫКАЛЬНЫЕ",МУЗ ТВ
+http://212.75.198.234:81/udp/239.255.42.105:1234
+#EXTINF:-1 tvch-id="10122" group-title="ХОББИ/ДОСУГ",ОХОТНИК И РЫБОЛОВ
+http://31.130.22.192:2732/udp/238.1.2.171:1234
 #EXTINF:-1 tvch-id="5201" group-title="ХОББИ/ДОСУГ",ОХОТНИК И РЫБОЛОВ HD
-http://89.208.93.235:5050/udp/230.3.3.201:5678
-#EXTINF:-1 tvch-id="3224" group-title="ХОББИ/ДОСУГ",ОХОТНИК И РЫБОЛОВ
-http://178.49.232.205:81/udp/239.1.20.26:1234
-#EXTINF:-1 tvch-id="5019" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СТС
-http://89.208.158.58:20000/udp/224.0.42.19:5000
-#EXTINF:-1,31 канал
-http://sc.id-tv.kz/31Kanal_38_39.m3u8
-#EXTINF:-1,34 канал
-http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4
-#EXTINF:-1,360 HD
-http://360tv-cdn.facecast.io/360/channel2/1.m3u8
-#EXTINF:-1,360 Новости HD
-http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:-1,43 канал HD
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1,43 канал HD
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:-1,78 канал
-http://78.gcdn.co/streams/877_13/480n/index.m3u8
-#EXTINF:-1,78 канал HD
-http://78.gcdn.co/streams/877_13/720n/index.m3u8
-#EXTINF:-1,78 канал [FHD]
-http://78.gcdn.co/streams/877_13/1080n/index.m3u8
-#EXTINF:-1,8 Канал
-http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
-#EXTINF:-1,8 Канал (Европа)
-http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
-#EXTINF:-1,8 Канал (Красноярский край)
-http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:-1,8 Канал (Новосибирск)
-http://8knsk.cdnvideo.ru/8knsk-mpegts/stream1/playlist.m3u8
-#EXTINF:-1,8 канал (Беларусь)
-http://91.215.176.238:8000/8channel
-#EXTINF:-1,A1
-http://ott-cdn.ucom.am/s45/04.m3u8
-#EXTINF:-1,A2
-http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:-1,A2
-http://sc.id-tv.kz/A2_38_39.m3u8
-#EXTINF:-1,A2
-http://91.210.24.70:88/tv_amedia2/video.m3u8
-#EXTINF:-1,ACB TV
-http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1,ACB TV
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1,AIVA TV
-http://194.190.78.81/aivabr/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ATR
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1,ATR
-http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
-#EXTINF:-1,Almaty TV (KZ)
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1,Ani
-http://91.210.24.70:88/tv_ani/video.m3u8
-#EXTINF:-1,Arirang TV
-http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,Astana TV
-http://sc.id-tv.kz/astana_38_39.m3u8
-#EXTINF:-1,Atameken TV (KZ)
-http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
-#EXTINF:-1,Bridge TV
-http://ott-cdn.ucom.am/s34/04.m3u8
-#EXTINF:-1,Bridge TV Русский хит
-http://91.210.24.70:88/tv_Rusong/video.m3u8
-#EXTINF:-1,Bridge TV Русский хит
-http://ott-cdn.ucom.am/s78/04.m3u8
-#EXTINF:-1,Buy Home TV HD
-http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
-#EXTINF:-1,CGTN Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,Canal 2 (Молдова)
-http://109.185.159.215:4011/udp/239.100.0.6:5656
-#EXTINF:-1,Canal 3 (Молдова)
-http://109.185.159.215:4011/udp/239.100.0.14:5656
-#EXTINF:-1,Cars & Stars TV HD
-http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
-#EXTINF:-1,DW TV English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1,Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,E TV HD
-http://cdn-01.bonus-tv.ru:8080/gameshow_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,E TV [FHD]
-http://cdn-01.bonus-tv.ru:8080/gameshow_edge/tracks-v2a1/index.m3u8
-#EXTINF:-1,Europa Plus TV [FHD]
-http://live-emg.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8
-#EXTINF:-1,Eurosport 1
-http://91.210.24.70:88/tv_Eurosport/video.m3u8
-#EXTINF:-1,Fashion TV
-http://ott-cdn.ucom.am/s30/04.m3u8
-#EXTINF:-1,Fashion TV
-http://91.210.24.70:88/tv_FashionTV/video.m3u8
-#EXTINF:-1,Fine Living
-http://ott-cdn.ucom.am/s51/04.m3u8
-#EXTINF:-1,Food Network
-http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1,France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1,Fresh TV
-http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
+http://89.208.234.5:5050/udp/230.3.3.201:5678
+#EXTINF:-1 tvch-id="11081" group-title="ПРАВОСЛАВНЫЕ",СОЮЗ
+http://212.75.198.234:81/udp/239.255.42.210:1234
+#EXTINF:-1 tvch-id="6020" group-title="ДЕТСКИЕ",GINGER HD
+http://178.163.45.181:4022/udp/234.0.0.113:2000
+#EXTINF:-1 tvch-id="23021" group-title="ДЕТСКИЕ",NICKELODEON HD 
+http://178.167.122.70:4022/udp/234.5.2.51:1234
+#EXTINF:-1 tvch-id="11018" group-title="ДЕТСКИЕ",NICKELODEON
+http://158.46.245.158:81/udp/239.255.42.32:1234
+#EXTINF:-1 tvch-id="15158" group-title="ДЕТСКИЕ",МУЛЬТИК HD
+http://91.193.150.170:1213/udp/239.255.0.209:1234
+#EXTINF:-1 tvch-id="29212" group-title="ДЕТСКИЕ",TIJI
+http://188.134.89.170:81/udp/235.10.10.183:1234
+#EXTINF:-1 tvch-id="7194" group-title="ДЕТСКИЕ",ANI
+http://109.171.69.248:81/udp/239.54.6.109:1234
+#EXTINF:-1 tvch-id="5114" group-title="ХОББИ/ДОСУГ",О!2 HD
+http://95.163.188.126:5050/udp/224.0.42.125:5000
+#EXTINF:-1 tvch-id="15198" group-title="ДЕТСКИЕ",РЫЖИЙ
+http://5.43.150.5:81/udp/239.255.0.231:1234
+#EXTINF:-1 tvch-id="37047" group-title="ДЕТСКИЕ",МУЛЬТ
+http://31.47.181.155:81/udp/238.1.1.24:1234
+#E#EXTINF:-1 tvch-id="11059" group-title="ДЕТСКИЕ",МУЛЬТИМАНИЯ
+http://212.75.198.234:81/udp/239.255.42.65:1234
+#EXTINF:-1 tvch-id="11041" group-title="ДЕТСКИЕ",ДЕТСКИЙ
+http://212.75.198.234:81/udp/239.255.42.31:1234
+#EXTINF:-1 tvch-id="11017" group-title="ДЕТСКИЕ",NICK JR.
+http://212.75.198.234:81/udp/239.255.42.126:1234
+#EXTINF:-1 tvch-id="16127" group-title="ДЕТСКИЕ",ДЕТСКИЙ МИР
+http://176.222.255.203:81/udp/239.254.2.121:1234
+#EXTINF:-1 tvch-id="29174" group-title="ДЕТСКИЕ",JIMJAM
+http://5.19.6.122:81/udp/235.10.10.176:1234
+#EXTINF:-1 tvch-id="1035" group-title="ДЕТСКИЕ",BOOMERANG
+http://79.133.127.33:999/udp/239.191.254.37:13343
+#EXTINF:-1 tvch-id="3154" group-title="ПОЗНАВАТЕЛЬНЫЕ",ЗОО ТВ
+http://164.215.94.61:81/udp/233.12.144.15:5050
+#EXTINF:-1 tvch-id="15139" group-title="СПОРТИВНЫЕ",МАТЧ! HD
+http://5.43.150.5:81/udp/239.255.0.222:1234
+#EXTINF:-1 tvch-id="140" group-title="МУЗЫКАЛЬНЫЕ",ЖАР ПТИЦА HD
+http://109.248.77.175:4022/udp/239.195.1.125:1234
+#EXTINF:-1 tvch-id="142" group-title="КИНО/СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
+http://109.248.71.71:15999/udp/239.195.1.131:1234
+#EXTINF:-1 tvch-id="16130" group-title="КИНО/СЕРИАЛЫ",ДОМ КИНО
+http://46.160.180.113:81/udp/239.254.2.7:1234
+#EXTINF:-1 tvch-id="44064" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СТС LOVE
+http://85.15.120.243:4022/udp/238.0.2.151:1234
+#EXTINF:-1 tvch-id="11050" group-title="КИНО/СЕРИАЛЫ",КИНОКОМЕДИЯ
+http://212.75.198.234:81/udp/239.255.42.43:1234
+#EXTINF:-1 tvch-id="42086" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЕРВЫЙ КАНАЛ HD 
+http://194.58.173.135:81/udp/239.195.5.18:1234
 #EXTINF:-1,Gold TV (Moldova)
 http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
 #EXTINF:-1,Gold TV (Moldova) [FHD]
