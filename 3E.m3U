@@ -1,13 +1,13 @@
 #EXTINF:-1,Последнее обновление 04.03.2019
 http://000.000.00.000:00/u7p/000.000.0.00:0000
-#EXTINF:-1 tvch-id="24054" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЕРВЫЙ КАНАЛ HD
-http://94.251.66.80:81/udp/239.54.5.61:1224
+#EXTINF:-1 tvch-id="22117" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЕРВЫЙ КАНАЛ HD 
+http://193.228.165.164:81/udp/239.195.6.2:1234
 #EXTINF:-1 tvch-id="5207" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",РОССИЯ 1 HD
-http://94.19.154.117:4444/udp/239.239.3.66:5239
-#EXTINF:-1,● Матч ТВ HD
-http://1ttvauth.top/s/1016/1/spb/U1FCZU1TZnZGRnp4RWhkMTlaWFAvc1Z2MEFDa1hSeFVnUkR1N3NSV3JteC9lbVdxM0VyWC9RZkMvNGVCOW1jV2lONkFEcEpOK3BLYmJsL1Z2eWdPSTNtcmZDa2JETkdOSDBRYVRaRmVTL0o2Uk9QSy9BPT0/0/playlist.m3u8
-#EXTINF:-1 tvch-id="2261" group-title="ХОББИ/ДОСУГ",ОХОТНИК И РЫБОЛОВ HD
-http://ott-cdn.ucom.am/s62/04.m3u8
+http://89.208.158.58:20000/udp/230.3.3.251:5678
+#EXTINF:-1,МАТЧ HD
+http://185.253.102.48:81/udp/239.195.5.25:1234
+#EXTINF:-1,Охотник и рыболов HD
+http://85.114.173.144:4022/udp/232.0.1.37:1234
 #EXTINF:-1 tvch-id="11062" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",НТВ
 http://46.181.116.168:81/udp/239.255.0.4:1234
 #EXTINF:-1 tvch-id="24002" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЯТЫЙ КАНАЛ
