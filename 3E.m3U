@@ -91,9 +91,8 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
 #EXTGRP:Спорт
-http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
-#EXTGRP:Спорт
+http://213.251.201.30:54642/udp/239.192.4.90:2121
+#EXTINF:-1 tvch-id="41088" group-title="ХОББИ/ДОСУГ",ОХОТНИК И РЫБОЛОВ 
 http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1,ТВЦ
 #EXTGRP:Общие
@@ -865,3 +864,4 @@ http://meta.vcdn.biz/1ff4118dc0fefcbd3ce5ae5fdf2fc482_megogo/vod/fs/o/40500701/u
 #EXTINF:-1,ТНТ Music
 #EXTGRP:Музыка
 http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+
